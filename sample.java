@@ -5,7 +5,7 @@ public class sample{
         System.out.println("Hello World!");
         System.out.println("Hi");
         int a = 10;
-        int b = 20;
+        int b = 15;
         System.out.println(a + b);
     }
 }
